@@ -14,7 +14,7 @@ Hi, I'm Davit Darjania. This is my ranks in programming languages.
 |     1| Javascript|
 |     1| C++       |
 |     1| css       |
+|     1| Assembly  |
 |     1| python    |
 |     2| C         |
 |     2| HTML      |
-|     1| Assembly  |
